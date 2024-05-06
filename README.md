@@ -12,7 +12,7 @@
 - npm i
 ### צילומי מסך מהאתר.
 ![alt text](myProjectFinalReact/public/Screenshots/home.png)
-![alt text](myProjectFinalReact/public/Screenshots/image(10).png)
+![alt text](myProjectFinalReact/public/Screenshots/10.png)
 ![alt text](myProjectFinalReact/public/Screenshots/image(11).png)
 ![alt text](myProjectFinalReact/public/Screenshots/image(13).png)
 ![alt text](myProjectFinalReact/public/Screenshots/image(14).png)
