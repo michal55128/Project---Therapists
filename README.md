@@ -19,13 +19,14 @@
 ![alt text](myProjectFinalReact/public/Screenshots/15.png)
 ![alt text](myProjectFinalReact/public/Screenshots/16.png)
 ![alt text](myProjectFinalReact/public/Screenshots/17.png)
-![alt text](myProjectFinalReact/public/Screenshots/18.png)
 ![alt text](myProjectFinalReact/public/Screenshots/6.png)
 ![alt text](myProjectFinalReact/public/Screenshots/7.png)
 ![alt text](myProjectFinalReact/public/Screenshots/8.png)
 ![alt text](myProjectFinalReact/public/Screenshots/9.png)
 
-![alt text](myProjectFinalReact/public/Screenshots/הוספת_מטפל.png)
+![alt text](myProjectFinalReact/public/Screenshots/80.png)
 ![alt text](myProjectFinalReact/public/Screenshots/קטגוריות.png)
-![alt text](myProjectFinalReact/public/Screenshots/שאלות_ותשובות.png)
+![alt text](myProjectFinalReact/public/Screenshots/78.png)
+### המייל שתריע על קבלת הודעה חדשה באיזור האישי..
+![alt text](myProjectFinalReact/public/Screenshots/18.png)
 
