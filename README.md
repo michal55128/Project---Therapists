@@ -12,7 +12,7 @@
 - npm i
 ### צילומי מסך מהאתר.
 ![alt text](myProjectFinalReact/public/Screenshots/home.png)
-![alt text](myProjectFinalReact/public/Screenshots/image (10).png)
+![alt text](myProjectFinalReact/public/Screenshots/image(10).png)
 ![alt text](myProjectFinalReact/public/Screenshots/image(11).png)
 ![alt text](myProjectFinalReact/public/Screenshots/image(13).png)
 ![alt text](myProjectFinalReact/public/Screenshots/image(14).png)
@@ -25,7 +25,7 @@
 ![alt text](myProjectFinalReact/public/Screenshots/image(8).png)
 ![alt text](myProjectFinalReact/public/Screenshots/image(9).png)
 
-![alt text](myProjectFinalReact/public/Screenshots/הוספתמטפל.png)
+![alt text](myProjectFinalReact/public/Screenshots/הוספת_מטפל.png)
 ![alt text](myProjectFinalReact/public/Screenshots/קטגוריות.png)
-![alt text](myProjectFinalReact/public/Screenshots/שאלותותשובות .png)
+![alt text](myProjectFinalReact/public/Screenshots/שאלות_ותשובות.png)
 
