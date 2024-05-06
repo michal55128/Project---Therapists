@@ -17,12 +17,12 @@
 ![alt text](myProjectFinalReact/public/Screenshots/image(16).png)
 ![alt text](myProjectFinalReact/public/Screenshots/image(17).png)
 ![alt text](myProjectFinalReact/public/Screenshots/image(18).png)
-![alt text](myProjectFinalReact/public/Screenshots/image(6).png)
+![alt text](myProjectFinalReact/public/Screenshots/image (6).png)
 ![alt text](myProjectFinalReact/public/Screenshots/image(7).png)
 ![alt text](myProjectFinalReact/public/Screenshots/image(8).png)
 ![alt text](myProjectFinalReact/public/Screenshots/image(9).png)
 
-![alt text](myProjectFinalReact/public/Screenshots/הוספת מטפל.png)
+![alt text](myProjectFinalReact/public/Screenshots/הוספתמטפל.png)
 ![alt text](myProjectFinalReact/public/Screenshots/קטגוריות.png)
-![alt text](myProjectFinalReact/public/Screenshots/שאלות ותשובות .png)
+![alt text](myProjectFinalReact/public/Screenshots/שאלותותשובות .png)
 
