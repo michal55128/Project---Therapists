@@ -27,6 +27,6 @@
 ![alt text](myProjectFinalReact/public/Screenshots/80.png)
 ![alt text](myProjectFinalReact/public/Screenshots/קטגוריות.png)
 ![alt text](myProjectFinalReact/public/Screenshots/78.png)
-### המייל שתריע על קבלת הודעה חדשה באיזור האישי..
+### המייל שמתריע על קבלת הודעה חדשה באיזור האישי..
 ![alt text](myProjectFinalReact/public/Screenshots/18.png)
 
